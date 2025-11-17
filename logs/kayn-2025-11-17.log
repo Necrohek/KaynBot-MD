@@ -1,0 +1,19 @@
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: ppt.js
+[16/11/2025, 18:05:19] [ERROR] Error cargando comando hidetag.js: SyntaxError: Unexpected end of input
+[16/11/2025, 18:05:19] [ERROR] Error cargando comando detect.js: SyntaxError: Missing } in template expression
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: close.js
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: demote.js
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: menu.js
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: promote.js
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: open.js
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: tagall.js
+[16/11/2025, 18:05:19] [SUCCESS] Comando cargado: kick.js
+[16/11/2025, 18:05:20] [SUCCESS] Comando cargado: play.js
+[16/11/2025, 18:05:20] [SUCCESS] Comando cargado: on-off.js
+[16/11/2025, 18:05:20] [SUCCESS] Comando cargado: stickers.js
+[16/11/2025, 18:05:47] [HANDLER] Método seleccionado: QR
+[16/11/2025, 18:05:48] [WARN] ❌ Conexión cerrada, reconectando...
+[16/11/2025, 18:05:51] [HANDLER] Método seleccionado: QR
+[16/11/2025, 18:05:53] [WARN] ❌ Conexión cerrada, reconectando...
+[16/11/2025, 18:05:57] [HANDLER] Método seleccionado: RUN
+[16/11/2025, 18:06:18] [WARN] ⚠ Conexión cerrada. Ejecuta nuevamente para reconectar RUN.
