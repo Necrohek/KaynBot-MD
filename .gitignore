@@ -1,0 +1,60 @@
+# ─────────────────────────────
+# Dependencias
+# ─────────────────────────────
+node_modules/
+package-lock.json
+
+# ─────────────────────────────
+# Sesiones de WhatsApp
+# (Baileys, MultiAuth, QR, creds)
+# ─────────────────────────────
+session/
+sessions/
+sessions.json
+auth_info.json
+auth/
+creds.json
+*.session
+*.json.session
+*.auth
+*.baileys
+baileys_store/
+
+# ─────────────────────────────
+# Archivos temporales
+# ─────────────────────────────
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ─────────────────────────────
+# Logs
+# ─────────────────────────────
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+*.log
+
+# ─────────────────────────────
+# Archivos del sistema
+# ─────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─────────────────────────────
+# Variables de entorno
+# ─────────────────────────────
+.env
+*.local
+.env.*
+config.local.json
+
+# ─────────────────────────────
+# Media generada
+# (si no quieres que se suba al repo)
+# ─────────────────────────────
+downloads/
+temp_audio/
+temp_video/
+cache/
